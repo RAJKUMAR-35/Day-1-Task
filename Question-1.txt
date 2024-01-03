@@ -1,0 +1,18 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP1.1 (HyperText Transfer Protocol)
+
+    * It is work on Textual format.
+    * It operates on a single request-response mechanism,that each request creates a new connection. 
+      This can lead to slower loading times.
+    * It compresses data by itself.
+    * It usees request resources inlinging for getting multiple pages.
+
+------------------------------------------------------------------------------------------------------
+
+HTTP2.0 (HyperText Transfer Protocol)
+
+    * It works on binary protocol.
+    * It allows multiplexing, So one TCP connection is required for multiple requsts
+    * It uses HPACK for data compression.
+    * It uses PUSH frame by server that collects all multiple pages.

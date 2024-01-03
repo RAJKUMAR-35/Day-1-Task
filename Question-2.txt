@@ -1,0 +1,9 @@
+Write a blog about objects and its internal representation in Javascript
+
+    In JavaScript, Object is a data structure that allows you to store and organize data. 
+Objects consist of key-value pairs, where each key is a string and each value can be any data type. 
+Objects are a fundamental part of the language and are used extensively in various scenarios.
+
+    Understanding the internal workings of JavaScript objects unveils the magic that propels the 
+language's prowess in handling diverse data scenarios. So, next time you manipulate objects in the
+JavaScript, remember, there's a hash table dance happening beneath the surface.
