@@ -1,4 +1,4 @@
-# Guvi-ZenClass Task-Day 1
+# Guvi-RoadMapTask Day-1
 
 This repository contains the completed tasks for Day 1 of the GUVI Zen class. Each task focuses on key topics in web development and JavaScript fundamentals.
 
